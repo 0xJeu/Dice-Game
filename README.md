@@ -1,5 +1,6 @@
 # Dice Game
 
+<img width="1440" alt="Screenshot 2023-06-19 at 2 05 21 PM" src="https://github.com/0xJeu/Dice-Game/assets/129988927/fc28f7f8-0a13-4609-a3ac-2775d8743d1a">
 This JavaScript code simulates a dice game between two players. The code generates random numbers to determine the outcome of the game and updates the HTML content accordingly.
 
 ## How It Works
@@ -61,5 +62,5 @@ DRAW
 ## Acknowledgments
 
 This code is a simple implementation of a dice game using JavaScript. Feel free to modify and expand it according to your requirements.
-Second published project
-<img width="1440" alt="Screenshot 2023-06-19 at 2 05 21 PM" src="https://github.com/0xJeu/Dice-Game/assets/129988927/fc28f7f8-0a13-4609-a3ac-2775d8743d1a">
+
+
